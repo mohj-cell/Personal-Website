@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "myFont";
+    src: url("fonts/Poppins-Regular.ttf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font-family: "myFont", sans-serif;
+    font-weight: 400;
+}
+
+.jhmll {
+    margin-left: -25%;
+    border-radius: 50%;
+    box-shadow: 1px 1px 3px 0, -1px -1px 3px 0;
+}
+
+.techStack img {
+    width: 50px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: -150px;
+}
+
+.tStacks {
+    font-size: 16px;
+}
+
+.myName {
+    color: #a5d8ff;
+}
